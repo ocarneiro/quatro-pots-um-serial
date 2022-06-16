@@ -2,7 +2,7 @@
 
 Interação entre interface física baseada em Arduino e interface web baseada em p5.js
 
-
+![Foto](2022-06-16%2017.11.31.jpg)
 
 O hardware que estou utilizando é baseado no [MisteRdeck](https://www.printables.com/model/134529-misterdeck) (na verdade é um MisteRdeck que ainda não terminei de montar).
 
